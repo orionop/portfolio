@@ -30,7 +30,7 @@ jobs:
         run: npm run build
 
       - name: Upload GitHub Pages Artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v1  # ✅ Use the latest stable version
         with:
           path: dist
 
