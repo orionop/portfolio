@@ -4,7 +4,8 @@
 
 ## 📄 About
 
-This project is refactored from the original [**dev-portfolio**](https://github.com/Smilesharks/dev-portfolio) project, thanks for his work.
+This is my personal portfolio website. Thanks @astro
+
 
 I use iconify instead of SVG icons for better dev experience.
 
@@ -39,7 +40,7 @@ pnpm create astro@latest --template MiraHikari/portfolio
 If you don't want to use the template command, you can clone this repo and install the dependencies.
 
 ```bash
-git clone https://github.com/MiraHikari/portfolio.git
+git clone https://github.com/orionop/portfolio
 cd portfolio
 pnpm install
 ```
