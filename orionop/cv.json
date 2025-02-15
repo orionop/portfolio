@@ -423,7 +423,7 @@
     {
       "name": "Form Genie",
       "image": {
-        "url": "https://raw.githubusercontent.com/orionop/form-genie/main/icons/form.png",
+        "url": "https://raw.githubusercontent.com/orionop/form-genie/main/form.png",
         "position": "container"
       },
       "isActive": true,
