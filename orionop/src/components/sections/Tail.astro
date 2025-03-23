@@ -1,0 +1,44 @@
+---
+import { basics } from '@cv'
+
+const { beian } = basics
+---
+
+<div
+  class='slide-enter flex w-full justify-center md:col-span-6 print:hidden text-center pb-12'>
+  <div class='flex items-center space-x-0 text-xs opacity-50'>
+    <span class='gap-1 text-center no-underline'>
+      {
+      beian && (
+        <>
+          {beian.mint && (<a class='group relative' href='https://beian.miit.gov.cn/'>
+            <span>{beian.mint}</span>
+            <span class='absolute bottom-0 left-0 h-[1px] w-full origin-right scale-x-0 bg-current transition-transform duration-300 ease-out group-hover:origin-left group-hover:scale-x-100' />
+          </a>
+          <span>&</span>)
+          }
+          {beian.police && (<a
+            class='group relative'
+            href='http://www.beian.gov.cn/portal/registerSystemInfo'>
+            <span>{beian.police}</span>
+            <span class='absolute bottom-0 left-0 h-[1px] w-full origin-right scale-x-0 bg-current transition-transform duration-300 ease-out group-hover:origin-left group-hover:scale-x-100' />
+          </a>)}
+
+        </>
+      )
+    }
+      <p class='mt-3 text-center font-mono'>
+        I am very happy to present to you <span class='font-black'>my very own</span><a
+          class='font-black'
+          href='https://github.com/orionop/portfolio'>
+          <span class='underline'>Portfolio</span>
+        </a>which is made by <a
+          class='font-black'
+          href='https://github.com/orionop'>
+          <span class='underline'>Anurag S</span>
+        </a>
+      </p>
+      <p class='mt-3 text-center'>2025-PRESENT © orionop ✨</p>
+    </span>
+  </div>
+</div>

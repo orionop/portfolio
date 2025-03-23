@@ -1,0 +1,440 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Anurag Shetye",
+    "label": "building.. prev @LTIMindtree",
+    "image": "/avatar.png",
+    "email": "anuragid.work@gmail.com",
+    "url": "https://www.google.com",
+    "summary": "Born in 2004, I primarily work with Python, ROS for robotics and AI development, and enjoy working with autonomous systems and robotics technologies.",
+    "theme": "red",
+    "location": {
+      "address": "Thane",
+      "city": "Maharashtra",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "anurags",
+        "url": "https://linkedin.com/in/anuragshetye/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "orionop",
+        "url": "https://github.com/orionop"
+      }
+    ]
+  },
+  "images": {
+    "intro": "You can’t depend on your eyes when your imagination is out of focus.",
+    "list": [
+      {
+        "image": "https://i.imgur.com/gsC8nZj.jpeg",
+        "alt": "Evening in Mumbai",
+        "desc": "after an hour of hill climbing"
+      },
+      {
+        "image": "https://i.imgur.com/Lp4jITx.jpeg",
+        "alt": "new kicks",
+        "desc": "my first ever SBs"
+      },
+      {
+        "image": "https://i.imgur.com/qvpcnp9.jpeg",
+        "alt": "guddu",
+        "desc": "best friend"
+      },
+      {
+        "image": "https://i.imgur.com/Sqx9The.jpeg",
+        "alt": "Dog Kernel Crashed",
+        "desc": "Dog Kernel Crashed"
+      }
+    ]
+  },
+  "education": [
+    {
+     "institution": "Ramrao Adik Institute of Technology",
+  "url": "https://www.rait.ac.in",
+  "area": "Computer Science and Business Systems",
+  "studyType": "Bachelor of Technology (B.Tech)",
+  "startDate": "2022-08-01",
+  "endDate": "2026-05-31"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Crash Course on Python",
+      "date": "2024-04-01",
+      "url": "https://drive.google.com/file/d/13rdFe9rbzzjlFB1dbSTjB1IGCxSgdyn8/view?usp=share_link",
+      "issuer": "Google"
+    },
+    {
+      "name": "Modern Robotics, Course 1: Foundations of Robot Motion",
+      "date": "2024-11-01",
+      "url": "https://drive.google.com/file/d/1nJ6ENfu57N9BZ3h9zIE0qnaVyjpDFs6j/view?usp=sharing",
+      "issuer": "Northwestern University"
+    }
+],
+  "work": [
+    {
+      "name": "Robotics Laboratory, RAIT",
+  "position": "Research Associate",
+  "location_type": "Hybrid",
+  "location": "Nerul",
+  "url": "https://www.linkedin.com/school/ramraoadikinstituteoftechnology/posts/?feedView=all",
+  "startDate": "2024",
+  "endDate": null,
+  "summary": "Specializing in UAV modeling, MATLAB simulations, and autonomous navigation, focusing on advanced control strategies for aerial robotics.",
+  "highlights": [
+    "Enhanced internal workflow efficiency by 30%.",
+    "Developed robust UAV models for real-world applications."
+  ],
+  "responsibilities": [
+    "Developing quadrotor models and conducting MATLAB-based UAV simulations.",
+    "Researching advanced flight control strategies to improve autonomous navigation.",
+    "Implementing and testing UAV algorithms in simulated and real-world environments."
+  ],
+  "achievements": [
+    "Designed UAV simulation models to validate autonomous navigation algorithms.",
+    "Optimized quadrotor control algorithms for enhanced flight stability.",
+    "Contributed to UAV research innovations and patent filings."
+  ],
+  "skills": {
+    "Python": "mdi:language-python",
+    "ROS": "mdi:robot",
+    "MATLAB": "mdi:function-variant",
+    "Simulink": "mdi:chart-line",
+    "Crazyflie": "mdi:drone",
+    "Gazebo": "mdi:cube-outline",
+    "Git": "mdi:git",
+    "GitHub": "mdi:github",
+    "C++": "mdi:language-cpp"
+}
+    },
+    {
+      "name": "LTIMindtree",
+      "position": "Project Intern",
+      "location_type": "On-Site",
+      "location": "India",
+      "url": "https://www.ltimindtree.com",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-30",
+      "summary": "Worked on digital marketing strategies, asset management, and keyword research to enhance online visibility.",
+      "highlights": [
+        "Conducted in-depth keyword research for SEO optimization.",
+        "Contributed to asset management and data-driven decision-making."
+      ],
+      "responsibilities": [
+        "Performed digital marketing analysis to improve online reach.",
+        "Managed and optimized digital assets for better engagement.",
+        "Developed SEO strategies through keyword research."
+      ],
+      "achievements": [
+        "Enhanced asset management efficiency with data-driven insights.",
+        "Improved search engine visibility through strategic keyword research."
+      ],
+      "skills": {
+        "SEO": "mdi:magnify",
+        "Keyword Research": "mdi:search-web",
+        "Digital Marketing": "mdi:chart-line",
+        "Asset Management": "mdi:database",
+        "SQL": "simple-icons:mysql",
+        "WordPress": "ri:wordpress-fill",
+        "Google Analytics": "mdi:google-analytics",
+        "GitHub": "mdi:github",
+        "Git": "mdi:git"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "icon": "mdi:language-python",
+      "level": "Expert",
+      "keywords": [
+        "Programming",
+        "Machine Learning",
+        "Robotics",
+        "Automation"
+      ]
+    },
+    {
+      "name": "C++",
+      "icon": "mdi:language-cpp",
+      "level": "Intermediate",
+      "keywords": [
+        "Embedded Systems",
+        "Robotics",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "ROS",
+      "icon": "mdi:robot",
+      "level": "Intermediate",
+      "keywords": [
+        "Robot Operating System",
+        "Autonomous Systems",
+        "SLAM"
+      ]
+    },
+    {
+      "name": "MATLAB",
+      "icon": "mdi:function-variant",
+      "level": "Intermediate",
+      "keywords": [
+        "Simulation",
+        "Control Systems",
+        "Signal Processing"
+      ]
+    },
+    {
+      "name": "Simulink",
+      "icon": "mdi:chart-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Modeling",
+        "Simulation",
+        "Control Design"
+      ]
+    },
+    {
+      "name": "Gazebo",
+      "icon": "mdi:cube-outline",
+      "level": "Intermediate",
+      "keywords": [
+        "Simulation",
+        "Robotics",
+        "3D Environments"
+      ]
+    },
+    {
+      "name": "OpenCV",
+      "icon": "simple-icons:opencv",
+      "level": "Intermediate",
+      "keywords": [
+        "Computer Vision",
+        "Image Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "YOLO",
+      "icon": "simple-icons:yolo",
+      "level": "Intermediate",
+      "keywords": [
+        "Object Detection",
+        "Deep Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "name": "TensorFlow",
+      "icon": "simple-icons:tensorflow",
+      "level": "Intermediate",
+      "keywords": [
+        "Deep Learning",
+        "AI",
+        "Neural Networks"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "icon": "simple-icons:pandas",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Analysis",
+        "Machine Learning",
+        "Big Data"
+      ]
+    },
+    {
+      "name": "SQL",
+      "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "Data Storage",
+        "Backend Development"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend Development",
+        "JavaScript",
+        "Server-side Logic"
+      ]
+    },
+    {
+      "name": "Flask",
+      "icon": "simple-icons:flask",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend Development",
+        "REST APIs",
+        "Web Applications"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Intermediate",
+      "keywords": [
+        "Frontend Development",
+        "UI Components",
+        "JavaScript Library"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code Management"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Containerization",
+        "DevOps",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Computing",
+        "Serverless Applications",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "icon": "simple-icons:html5",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Semantic Markup"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI Components",
+        "State Management"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Static Site Generation",
+        "SSR"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Utility-First Design"
+      ]
+    },
+    {
+      "name": "LoRa",
+      "icon": "mdi:antenna",
+      "level": "Intermediate",
+      "keywords": [
+        "Long Range Communication",
+        "IoT",
+        "Low Power Networks"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Marathi, Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Anurag Shetye",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Autonomous Quadcopter Landing System",
+      "image": {
+        "url": "https://i.imgur.com/om1t0TE.png",
+        "position": "container",
+        "dark": "https://i.imgur.com/om1t0TE.png"
+      },
+      "isActive": true,
+      "description": "An intelligent UAV landing system that enables precise autonomous landings on stationary targets.",
+      "highlights": [
+        "🚁 Utilizes computer vision for accurate landing detection.",
+        "🧠 Implements deep learning-based target recognition.",
+        "⚙️ Designed for Crazyflie quadrotors with ROS integration."
+      ],
+      "url": "https://github.com/orionop/autonomous-quadcopter-landing-system",
+      "github": "https://github.com/orionop/autonomous-quadcopter-landing-system"
+    },
+    {
+      "name": "Form Genie",
+      "image": {
+        "url": "https://raw.githubusercontent.com/orionop/form-genie/main/icons/form.png",
+        "position": "container"
+      },
+      "isActive": true,
+      "description": "An AI-powered Google Forms auto-responder that generates intelligent answers and automates form filling.",
+      "highlights": [
+        "🤖 AI-powered responses using GPT for text-based questions.",
+        "✅ Auto-selection of multiple-choice and checkbox options.",
+        "⚡ Works seamlessly as a Chrome extension for Google Forms."
+      ],
+      "url": "https://github.com/orionop/form-genie",
+      "github": "https://github.com/orionop/form-genie"
+    }
+  ]
+}
